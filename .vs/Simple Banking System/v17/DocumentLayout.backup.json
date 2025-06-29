@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Programming Advices\\Simple Banking System (Console-based)\\Simple Banking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2D7CB7-3C56-472A-95CB-51277CE7B732}|Simple Banking System\\Simple Banking System.vcxproj|C:\\Users\\DELL\\Desktop\\Programming Advices\\Simple Banking System (Console-based)\\Simple Banking System\\Simple Banking System\\Simple Banking System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F2D7CB7-3C56-472A-95CB-51277CE7B732}|Simple Banking System\\Simple Banking System.vcxproj|solutionrelative:Simple Banking System\\Simple Banking System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simple Banking System.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Programming Advices\\Simple Banking System (Console-based)\\Simple Banking System\\Simple Banking System\\Simple Banking System.cpp",
+              "RelativeDocumentMoniker": "Simple Banking System\\Simple Banking System.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Programming Advices\\Simple Banking System (Console-based)\\Simple Banking System\\Simple Banking System\\Simple Banking System.cpp",
+              "RelativeToolTip": "Simple Banking System\\Simple Banking System.cpp",
+              "ViewState": "AgIAADkAAADATnuaKY4jwF8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T13:00:05.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
