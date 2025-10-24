@@ -1,0 +1,1 @@
+-e ".vs/\n*.user\n*.suo\nx64/\nDebug/\nRelease/\n*.exe\n*.obj\n*.pdb\n*.ipch\n*.log\n*.tlog" 
