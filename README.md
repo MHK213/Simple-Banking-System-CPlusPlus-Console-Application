@@ -7,7 +7,6 @@ It allows a user to:
 - Check account balance
 - Deposit money
 - Withdraw money (with validation)
-- Exit securely
 
 ## 📌 Features
 
