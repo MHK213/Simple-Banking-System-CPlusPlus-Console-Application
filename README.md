@@ -14,3 +14,6 @@ It allows a user to:
 - Input validation for all operations
 - Styled output using console color codes (Windows-specific)
 - Inspired by Clean Code principles
+
+## Project Screenshots
+![](images/Example.PNG)
